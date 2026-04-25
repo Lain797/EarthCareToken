@@ -2,7 +2,7 @@
   "name": "EarthCare",
   "symbol": "ECARE",
   "description": "EarthCare (ECARE) — a hackathon token built on Solana to support environmental sustainability and reward eco-conscious actions. 🌿",
-  "image": "REPLACE_WITH_YOUR_LOGO_URL",
+  "image": "logo.png",
   "external_url": "",
   "attributes": [
     { "trait_type": "Category", "value": "Sustainability" },
@@ -11,7 +11,7 @@
   "properties": {
     "files": [
       {
-        "uri": "REPLACE_WITH_YOUR_LOGO_URL",
+        "uri": "logo.png",
         "type": "image/png"
       }
     ],
